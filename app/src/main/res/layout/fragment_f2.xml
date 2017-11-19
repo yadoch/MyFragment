@@ -14,6 +14,7 @@
         android:textSize="36sp"
         android:text="F2" />
     <Button
+        android:id="@+id/test2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="test2"
